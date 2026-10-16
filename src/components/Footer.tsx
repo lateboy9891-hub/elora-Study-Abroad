@@ -254,11 +254,11 @@ export const Footer: React.FC = () => {
             </Link>
             <span>•</span>
             <a
-              href="/ip"
-              download="ip"
+              href="/elora-study-abroad-website.zip"
+              download="elora-study-abroad-website.zip"
               className="text-[#E8B13C] hover:underline flex items-center gap-1 font-semibold"
             >
-             
+              <span></span>
             </a>
             <span>•</span>
             <a
